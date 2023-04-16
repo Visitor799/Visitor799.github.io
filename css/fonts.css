@@ -1,0 +1,10 @@
+
+  @font-face{
+    font-family: '方正喵呜简体';
+    
+    src: url('/font/方正喵呜简体.ttf') format("truetype");
+}
+
+body {
+    font-family: '方正喵呜简体';
+}
